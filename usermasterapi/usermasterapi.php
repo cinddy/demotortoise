@@ -12,6 +12,7 @@
      *  $params["country"]: alphanumeric
      *  $params["origin"]: alphanumeric
      *  $params["DOB"]: date()
+     * comment
      */
         function UM_CreateUser($params){
             include_once 'includes/UM_CreateUser.php';
